@@ -1,2 +1,2 @@
 # p8105_example1
-Same example as posted previously from third lecture of p8105
+Quick repo example for in-class git demo
